@@ -1,0 +1,8 @@
+﻿  function_1.c
+  function_2.c
+  function_3.c
+  function_4.c
+  function_5.c
+  main.c
+  正在產生程式碼...
+LINK : fatal error LNK1561: 必須定義進入點
